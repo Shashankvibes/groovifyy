@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.left{
+    width: 25vw;
+    padding: 10px;
+}
+.right{
+    width: 75vw;
+}
+.home ul li {
+    padding-top: 14px;
+    display: flex;
+    gap: 3px;
+    width: 15px;
+    list-style: none;
+}
+.home{
+    padding: 10px;
+}
